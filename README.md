@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/av_mahamud" target="blank"><img src="https://img.shields.io/twitter/follow/av_mahamud?logo=twitter&style=for-the-badge" alt="av_mahamud" /></a> </p>
 
-- 🔭 I’m currently interested in **programming**
+- 🔭 I’m interested in **programming**
 
 - 🌱 I’m currently learning **web programming,database systems and software engineering**
 
