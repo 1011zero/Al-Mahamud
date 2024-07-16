@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Al Mahamud</h1>
+<h1 align="center">Hi 👋, I'm Al-Mahamud</h1>
 <h3 align="center">Competitive Programmer | CS Undergrad @KUET</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76553740/225300421-d36edc0e-4439-4acb-8d91-ea5079871284.gif">
