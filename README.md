@@ -9,7 +9,7 @@
 
 - 🔭 I’m interested in **programming**
 
-- 🌱 I’m currently learning **web programming,database systems and software engineering**
+- 🌱 I’m currently learning **machine learning, computer networks, artificial intelligence, and computer and network security**
 
 - 💬 Ask me about **anything related to programming.**
 
