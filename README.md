@@ -1,7 +1,7 @@
 <h1 align="center">Al Mahamud</h1>
 
 <p align="center">
-  Graduate Engineer at <b>Kona SL</b> &nbsp;·&nbsp; Competitive Programmer &nbsp;·&nbsp; CSE, KUET '25
+  Graduate Engineer at <b>Kona SL</b> &nbsp;·&nbsp; Competitive Programmer &nbsp;·&nbsp; CSE, KUET '19
 </p>
 
 <p align="center">
@@ -13,9 +13,8 @@
 
 ---
 
-I write backend software in Dhaka. Day to day that means **enterprise fintech systems** at Kona SL — Java, Spring Boot, MyBatis and Oracle on the server, Next.js on the front — and building production AI-powered tooling with the AI Engineering team.
-
-Before that I spent five years doing competitive programming, which is still how I think about problems: find the constraint, prove the bound, then write the smallest thing that satisfies it. **1700+ problems solved** across online judges and **200+ contests**, online and onsite.
+I’m a backend engineer based in Dhaka, working on enterprise-grade fintech platforms at Kona SL. My work focuses on designing and developing reliable transaction-driven systems using Java, Spring Boot, MyBatis, and Oracle, with Next.js powering the frontend. I also collaborate with the Engineering team to integrate AI-driven tooling into production workflows, with a focus on automation, developer productivity, and scalable system design.
+Before that I spent 3 years doing competitive programming, which is still how I think about problems: find the constraint, prove the bound, then write the smallest thing that satisfies it. **1700+ problems solved** across online judges and **200+ contests**, online and onsite.
 
 - 🔭 Currently building **distributed-systems-flavoured backends** — caching, queues, and the kind of database work that only shows up under load
 - 🌱 Learning **machine learning, computer networks, and network security**
