@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://codeforces.com/profile/1011zero"><img src="https://img.shields.io/badge/Codeforces-Specialist%20(1577)-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Specialist" /></a>
   <a href="https://www.codechef.com/users/one0110"><img src="https://img.shields.io/badge/CodeChef-4%E2%98%85%20(1903)-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef 4 star" /></a>
-  <img src="https://img.shields.io/badge/ICPC%20Dhaka%20Regional%202024-45th-C1272D?style=flat" alt="ICPC Dhaka Regional 2024, 45th" />
   <img src="https://komarev.com/ghpvc/?username=al-mahamud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
